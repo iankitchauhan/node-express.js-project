@@ -1,0 +1,24 @@
+{
+  "name": "express.js-project",
+  "version": "1.0.0",
+  "description": "express.js tutorial",
+  "main": "expserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iankitchauhan/node-express.js-project.git"
+  },
+  "author": "Ankit Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iankitchauhan/node-express.js-project/issues"
+  },
+  "homepage": "https://github.com/iankitchauhan/node-express.js-project#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}
